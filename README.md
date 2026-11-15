@@ -17,4 +17,4 @@ Frontend:
     npm install
     npm run dev
 
-Open http://localhost:5173 and sign in with the demo account.
+Open https://weather-999.vercel.app/ and sign in with the demo account.
